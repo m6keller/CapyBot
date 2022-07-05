@@ -1,5 +1,5 @@
 import { BaseCommandInteraction, Client } from "discord.js";
-import { Command } from "../Command";
+import { Command } from "../types"
 
 // when user types "/capy", this command will return something
 export const Capy: Command = {
